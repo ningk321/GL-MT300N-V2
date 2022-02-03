@@ -14,8 +14,8 @@ on:
   repository_dispatch:
   release:
     types: published
-#  push:
-#    branches:
+  push:
+    branches:
 #      - main
 #    paths:
 #      - '.config'
